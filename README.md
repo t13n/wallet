@@ -1,4 +1,5 @@
 # offwallet
+![passed](https://api.codemagic.io/apps/5e00bb54393ff6148d0b7544/5e00bb54393ff6148d0b7543/status_badge.svg)
 
 A new Flutter project.
 
